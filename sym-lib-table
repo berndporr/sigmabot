@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name sigmabot)(type Legacy)(uri ${KIPRJMOD}/sigmabot.lib)(options "")(descr ""))
+  (lib (name Raspberry_Pi_2_or_3)(type Legacy)(uri ${KIPRJMOD}/Raspberry_Pi_2_or_3.lib)(options "")(descr ""))
+)
