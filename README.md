@@ -88,7 +88,7 @@ was 3D-printed.
 
 # Further docs
 
-doc.pdf
+https://github.com/berndporr/sigmabot/blob/main/doc.pdf
 
 # Credits
  - Ilina Todorova <2326960T@student.gla.ac.uk>
