@@ -86,6 +86,10 @@ was 3D-printed.
 
 ![alt tag](brackets.jpg)
 
+# Further docs
+
+doc.pdf
+
 # Credits
  - Ilina Todorova <2326960T@student.gla.ac.uk>
  - Bernd Porr <bernd.porr@glasgow.ac.uk>
