@@ -5,26 +5,7 @@ Robot with linear servos and LIDAR
 
 ## Power supply
 
-For the 5V rail it was decided to use an off-the-shelf
-DC-DC buck converter. The one chosen was “DollaTek XL4015”, which has
-adjustable output voltage and output current capability of 5A.  This
-converter is cheap and readily available and provides plenty of
-headroom for additional current draw of the system. 
-
-The system was to be powered from a rechargeable battery. For this a
-Li-Ion battery was chosen.  In particular it was the “RS PRO 7.4V
-Li-Ion 5.2Ah”. The battery stores roughly 38.5Wh of energy.  The
-running time of the system can be estimated as follows. Total power
-draw from the 5V rail is 6.9W, or 5.68W if the functions such as USB,
-HDMI and BT are disabled on the Raspberry Pi. Assuming 90% efficiency
-of the buck converter the total power draw of the system then is:
-
- - 6.9W/90%+0.44W=8.11W
- - 5.68W/90%+0.44W=5.70W
-
-The robot should run 4.7 hours with no power savings and 6.8 hours
-with USB, HDMI and BT functions disabled when using the selected
-battery.
+TODO. Needs to be fixed.
 
 ## LiDAR
 
